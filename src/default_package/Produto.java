@@ -39,4 +39,9 @@ public class Produto {
 	String nome;
 	float preco;
 	float desconto;
+	
+	// Método para aumentar o valor do produto
+	void aumentar_preco(float valor) {
+		this.preco = this.preco + valor;
+	}
 }
