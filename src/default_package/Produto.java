@@ -23,6 +23,20 @@ package default_package;
  * sem acentuação.
  * */
 
-public class Produto {
+// Métodos
 
+/*
+ * Podemos entender que métodos são ações realizadas por um objeto da classe
+ * Podemos entender também que os métodos são comportamentos da classe
+ * 
+ * Mesmo requisitos para funções
+ * 	a) Tipo de retorno (Tipo de dado que a função vai retornar);
+ * 	b) Nome - corresponde a ação que o método irá realizar;
+ * 	c) Parâmetros/Argumentos de entrada (Opcional);
+ * 	d) Retorno (Opcional - Depende do tipo de dado do método);
+ * */
+public class Produto {
+	String nome;
+	float preco;
+	float desconto;
 }
