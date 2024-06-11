@@ -13,6 +13,16 @@
  */
 package default_package;
 
+// Atributos
+
+/*
+ * São as características da classe/molde/modelo de dados;
+ * Podemos entender atributos como variáveis da classe;
+ * Uma outra forma de nomenclatura para os atributos são os estados;
+ * Atributos são nomeados em letras minúsculas, sem espaços, sem caracteres especiais,
+ * sem acentuação.
+ * */
+
 public class Produto {
 
 }
